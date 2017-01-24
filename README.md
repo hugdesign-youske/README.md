@@ -63,7 +63,7 @@
 
 ## 資格
 - 産業技術大学院大学 / AIIT: Advanced Institute of Industrial Technology
-  - 履修証明プログラム 2014年『人間中心デザイン』修了
+  - 履修証明プログラム 2014年『人間中心デザイン』修了
   
 ## 研究
 ### 2016/06 - : Xデザイン学校 HealthCare研究
