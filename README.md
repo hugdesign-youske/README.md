@@ -4,12 +4,8 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|hugdesign-youske|
+|Qiita|[hugdesign-youske](http://qiita.com/hugdesign-youske)|
 
 ## 強み
 1976年生まれ。高校卒業、コンシュマー向けプログラマーなるべく上京。
